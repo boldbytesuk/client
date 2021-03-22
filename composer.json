@@ -3,6 +3,7 @@
     "description": "API client for Flipp",
     "type": "library",
     "require": {
+        "php": ">=7.4",
         "illuminate/http": ">=7.0",
         "illuminate/collections": ">=7.0",
         "illuminate/support": ">=7.0"
